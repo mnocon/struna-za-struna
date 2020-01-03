@@ -5,6 +5,9 @@
 // IMPORTS
 //
 
+// Import the github style to fix the tables.
+@import "table";
+
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -35,20 +38,42 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.5;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.2;
   }
 }
 
-h1 {
-  font-size: 30px;
+h1.postPageTitle {
+  font-size: 2.5rem
+}
+
+ul > li.songPost {
+  font-size: 24px;
   a {
     color: inherit;
   }
+}
+
+p.show-chords {
+  line-height: 2.5em;
+}
+
+.show-chords span[data-chord]:before {
+  position: relative;
+  top: -1em;
+  font-size: 0.9em;
+  display:inline-block;
+  width: 0;
+  overflow:visible;
+  content     : attr(data-chord);
+  text-shadow:#CCC -1px 1px;
+  color:#111;
+  font-weight:bold;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 h2 {

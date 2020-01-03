@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: O mnie
+permalink: /autor/
 ---
 
-Some information about you!
+Cześć! Jestem Marek i na tym blogu znajdziecie przygotowane przeze mnie gitarowe opracowania polskich piosenek.
 
-### More Information
+### Powiązane 
+- [kanał w serwisie YouTube](https://www.youtube.com/channel/UCVYBYn7yglveQ5AtGt70DSw/videos)
 
-A place to include any other types of information that you'd like to include about yourself.
+### Pomocne materiały
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Ten blog nie służy do nauki gry na instrumencie i podczas przygotowania lekcji zakładam, że pewne chwyty i techniki są już Wam znane. Osobom chcącym poprawić swoje umiejętności polecam stronę [Justin Guitar](https://www.justinguitar.com/), gdzie znajduje się bardzo dobrze zaprojektowany kurs nauki gry na gitarze.
