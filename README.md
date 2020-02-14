@@ -1,1 +1,1 @@
-Blog "Struna za struną", podstępny pod adresem: https://www.strunazastruna.pl/
+
