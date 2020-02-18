@@ -1,7 +1,6 @@
 ---
-layout: post_preview
-title: Podgląd posta
-permalink: /preview/
+layout: post
+title: Formacja - Frau Kokoschke
 ---
 
 ## Oryginalne wykonanie
@@ -81,6 +80,7 @@ Cuda <span data-chord="C">się </span><span data-chord="D">zdarzają</span><span
 |--------|------|
 | ![Akord C](../chord_shapes/c.png "Akord C") | ![Akord D](../chord_shapes/d.png "Akord D") | 
 | ![Akord Em](../chord_shapes/em.png "Akord Em") | ![Akord Am7](../chord_shapes/am7.png "Akord Am7") |
+| ![Akord G/F#](../chord_shapes/gwithfsharpbase.png "Akord G/F#") |  | 
 
 ## Dodatkowe informacje
 - Muzyka i tekst: Krzysztof Jurkiewicz
