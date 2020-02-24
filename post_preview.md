@@ -76,8 +76,11 @@ Przecież <span data-chord="Em">cuda się </span><span data-chord="C">zdarzają�
  
 <span data-chord="Em">Cuda </span><span data-chord="D">ciągle się </span><span data-chord="C">zdarzają…</span><br>
 <span data-chord="Em">Cuda </span><span data-chord="D">ciągle się </span><span data-chord="C">zdarzają…</span><br>
-Siwe <span data-chord="Am7">włosy głaszcze </span><span data-chord="D">znad Zatoki </span><span data-chord="G">wiatr…</span><br><br>
+Siwe <span data-chord="Am7">włosy głaszcze </span><span data-chord="D">znad Zatoki </span><span data-chord="G">wiatr…</span>
 </div>
+  <div class="refren songpart short">
+  Mieć nadzieję i czekać...
+  </div>
 </div>
 
 
