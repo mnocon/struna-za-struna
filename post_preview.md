@@ -16,7 +16,7 @@ Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylk
 <div class="show-chords">
 
 <div class="flexbox-test">
-  <div class="zwrotka">
+  <div class="zwrotka songpart">
             <span data-chord="G">(intro)</span><br>
             <span data-chord="Gmaj7">Frau Kokoschke w oknie </span><span data-chord="G">śpi</span><br>
             <span data-chord="Gmaj7">Po niemiecku liczy </span><span data-chord="G">dni</span><br>
@@ -24,7 +24,7 @@ Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylk
             Wilhelm <span data-chord="Em">Gustloff</span>, lieber <span data-chord="C">Gott</span><br>
             To już <span data-chord="D">sześćdziesiąt </span><span data-chord="G">lat</span>
 </div>
-  <div class="refren">
+  <div class="refren songpart">
             <span data-chord="Em">Mieć </span><span data-chord="D">nadzieję i </span><span data-chord="C">czekać</span><br>
             <span data-chord="Em">Z marze</span><span data-chord="D">niami </span><span data-chord="C">zwlekać</span><br>
             <span data-chord="Am7">Może wrócić dziś lub jutro</span><br>
@@ -33,7 +33,7 @@ Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylk
             Przecież <span data-chord="C">cuda się </span><span data-chord="D">zdarzają</span><span data-chord="Em"> wciąż</span><br>
             Cuda <span data-chord="C">się </span><span data-chord="D">zdarzają</span><span data-chord="G"> wciąż</span>
   </div>
-  <div class="zwrotka">
+  <div class="zwrotka songpart">
             <span data-chord="Gmaj7">Sama z dziećmi dziesięć </span><span data-chord="G">lat</span><br>
             <span data-chord="Gmaj7">Wtedy znaleziono </span><span data-chord="G">wrak</span><br>
             Napi<span data-chord="C">sali</span> „zaginiony” a on <span data-chord="D">taki młody, tak potrzebny </span><span data-chord="G">był</span><span data-chord="G/F#"> </span><br>
