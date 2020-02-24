@@ -13,7 +13,7 @@ Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylk
 
 ## Tekst piosenki:
 
-<p class="show-chords">
+<div class="show-chords">
 
 <div class="flexbox-test">
   <div class="zwrotka">
@@ -42,7 +42,7 @@ Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylk
   </div>
 </div>
 
-</p>
+</div>
 ## Chwyty w piosence:
 
 | ![Akord G](../chord_shapes/g.png "Akord G") | ![Akord Gmaj7](../chord_shapes/gmaj7.png "Akord Gmaj7") |
