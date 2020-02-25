@@ -330,14 +330,15 @@ div.show-chords {
 }
 
 .zwrotka {
-  background-color: rgb(255, 0, 0);
+  background-color: $white;
 }
 
 .refren {
-  background-color: rgb(0,255,0);
+  background-color: $lightGray;
 }
 
 .short {
   font-style: italic;
   flex-shrink: 2;
+  line-height: 1em;
 }
