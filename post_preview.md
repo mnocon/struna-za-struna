@@ -11,14 +11,12 @@ permalink: /preview/
 ## Lekcja
 Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylko będzie gotowa.
 
-## Tekst piosenki:
-
 <div class="song show-chords">
+## Tekst piosenki:
   <div class="zwrotka songpart">
-            <span data-chord="G">(intro)</span><br>
-            <span data-chord="Gmaj7">Frau Kokoschke w oknie </span><span data-chord="G">śpi</span><br>
+            <span data-chord="G">(intro) </span><span data-chord="Gmaj7">Frau Kokoschke w oknie </span><span data-chord="G">śpi</span><br>
             <span data-chord="Gmaj7">Po niemiecku liczy </span><span data-chord="G">dni</span><br>
-            Przecież <span data-chord="C">jak dopłynie</span>, <span data-chord="D">zaraz miał dać </span><span data-chord="G">znać</span><span data-chord="G/F#"> </span><br>
+            Przecież <span data-chord="C">jak dopłynie</span>, <span data-chord="D">zaraz miał dać </span><span data-chord="G">znać</span><span data-chord="G/F#">     </span><br>
             Wilhelm <span data-chord="Em">Gustloff</span>, lieber <span data-chord="C">Gott</span><br>
             To już <span data-chord="D">sześćdziesiąt </span><span data-chord="G">lat</span>
 </div>
@@ -55,7 +53,7 @@ czasem <span data-chord="D">brak już </span><span data-chord="G">sił</span>
     <div class="zwrotka songpart">
 <span data-chord="Gmaj7">Katastrofa kilka </span><span data-chord="G">chwil</span><br>
 <span data-chord="Gmaj7">Dobrze wie nie przeżył </span><span data-chord="G">nikt,</span><br>
-Ale <span data-chord="C">wciąż nie może się pogodzić </span><span data-chord="D">wciąż nadzieję</span><span data-chord="G">ma</span><span data-chord="G/F#"> </span><br>
+Ale <span data-chord="C">wciąż nie może się pogodzić </span><span data-chord="D">wciąż nadzieję</span><span data-chord="G"> ma</span><span data-chord="G/F#"> </span><br>
 To <span data-chord="Em">prasuje mu </span><span data-chord="C">koszule</span><br>
 To do <span data-chord="D">morza rzuci </span><span data-chord="G">kwiat…</span>
   </div>
