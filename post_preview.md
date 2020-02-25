@@ -11,8 +11,9 @@ permalink: /preview/
 ## Lekcja
 Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylko będzie gotowa.
 
-<div class="song show-chords">
+<div class="song-container show-chords">
 <h2>Tekst piosenki:</h2>
+<div class="song">
   <div class="zwrotka songpart">
             <span data-chord="G">(intro) </span><span data-chord="Gmaj7">Frau Kokoschke w oknie </span><span data-chord="G">śpi</span><br>
             <span data-chord="Gmaj7">Po niemiecku liczy </span><span data-chord="G">dni</span><br>
@@ -77,6 +78,7 @@ Siwe <span data-chord="Am7">włosy głaszcze </span><span data-chord="D">znad Za
   <div class="refren songpart short">
   Mieć nadzieję i czekać...
   </div>
+</div>
 </div>
 
 ## Chwyty w piosence:
