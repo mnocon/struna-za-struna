@@ -13,9 +13,7 @@ Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylk
 
 ## Tekst piosenki:
 
-<div class="show-chords">
-
-<div class="flexbox-test">
+<div class="song show-chords">
   <div class="zwrotka songpart">
             <span data-chord="G">(intro)</span><br>
             <span data-chord="Gmaj7">Frau Kokoschke w oknie </span><span data-chord="G">śpi</span><br>
@@ -83,10 +81,6 @@ Siwe <span data-chord="Am7">włosy głaszcze </span><span data-chord="D">znad Za
   </div>
 </div>
 
-
-
-
-</div>
 ## Chwyty w piosence:
 
 | ![Akord G](../chord_shapes/g.png "Akord G") | ![Akord Gmaj7](../chord_shapes/gmaj7.png "Akord Gmaj7") |
