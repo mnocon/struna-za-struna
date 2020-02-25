@@ -317,6 +317,7 @@ footer {
 }
 .song {
   display: flex;
+  max-height: inherit;
   flex-wrap: wrap;
   flex-direction: column;
   align-items: stretch;
