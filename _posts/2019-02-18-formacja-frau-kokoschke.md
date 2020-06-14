@@ -8,7 +8,8 @@ title: Formacja - Frau Kokoschke
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1vusIC4wVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Lekcja
-Ciąglę pracuję nad lekcją w formie filmu, pojawi się w tym miejscu jak tylko będzie gotowa.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1x-aKsD0DSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tekst piosenki:
 
@@ -63,7 +64,7 @@ Przecież <span data-chord="Em">cuda się </span><span data-chord="C">zdarzają�
  
 <span data-chord="Em">Cuda </span><span data-chord="D">ciągle się </span><span data-chord="C">zdarzają…</span><br>
 <span data-chord="Em">Cuda </span><span data-chord="D">ciągle się </span><span data-chord="C">zdarzają…</span><br>
-Siwe <span data-chord="Am7">włosy głaszcze </span><span data-chord="D">znad Zatoki </span><span data-chord="G">wiatr…</span><br><br>
+Siwe <span data-chord="Am7">włosy głaszcze </span><span data-chord="D">znad Zatoki </span><span data-chord="G">wiatr…</span><span data-chord="G/F#"> </span><br><br>
 
 <span data-chord="Em">Mieć </span><span data-chord="D">nadzieję i </span><span data-chord="C">czekać</span><br>
 <span data-chord="Em">Z marze</span><span data-chord="D">niami </span><span data-chord="C">zwlekać</span><br>
